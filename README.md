@@ -1,4 +1,4 @@
-![Screenshot (65)](https://github.com/user-attachments/assets/86798e3d-d09c-4d8d-9dcc-2a8d2641f601)# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
+# 4Bit-Up-Down-Asynchronous-Reset-Counter-Synthesis
 
 ## Aim:
 
